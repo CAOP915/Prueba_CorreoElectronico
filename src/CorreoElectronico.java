@@ -11,6 +11,8 @@ public class CorreoElectronico implements Comparable<CorreoElectronico>{
 	//2.2 //Asimismo, Carlos Abraham Ojeda Pereira es el responsable de integrar todas las ramas a la rama principal y hacer su parte asignada del proyecto en su respectiva rama.
 	//2.3 // Caamal Franco, Yazmin Guadalupe y Diaz Jimenez, Nallely Patricia haran sus partes asignadas del proyecto en sus respectivas ramas.
 	
+	//holaaaa
+	
 	//Atributos de la clase:
 	private String emisor; 
 	private String receptor;
