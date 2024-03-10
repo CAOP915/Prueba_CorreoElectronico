@@ -8,12 +8,12 @@ public class CorreoEletronico {
 	//1.3 // Ojeda Pereira, Carlos Abraham. RAMA: RAMA_CARLOS.
 	
 	//2// Tareas del equipo:
-	//2.1 //Ahora, se hará el cambio de la master a la rama del lider Carlos Abraham Ojeda Pereira (RAMA_CARLOS) para su edición.
+	//2.1 //Ahora, se harï¿½ el cambio de la master a la rama del lider Carlos Abraham Ojeda Pereira (RAMA_CARLOS) para su ediciï¿½n.
 	//2.2 //Asimismo, Carlos Abraham Ojeda Pereira es el responsable de integrar todas las ramas a la rama principal y hacer su parte asignada del proyecto en su respectiva rama.
-	//2.3 // Caamal Franco, Yazmin Guadalupe y Diaz Jimenez, Nallely Patricia harán sus partes asignadas del proyecto en sus respectivas ramas.
+	//2.3 // Caamal Franco, Yazmin Guadalupe y Diaz Jimenez, Nallely Patricia harï¿½n sus partes asignadas del proyecto en sus respectivas ramas.
 	
 	
-	
+	//hola carlos 
 	
 	
 	
