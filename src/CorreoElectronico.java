@@ -1,5 +1,5 @@
 public class CorreoElectronico implements Comparable<CorreoElectronico>{
-    
+    // Hola mundo 
 	//Comienzo y Comentarios del proyecto (Correo Electronico con cola de mensajes):
 	//1 //Integrantes del equipo:
 	//1.1 // Caamal Franco, Yazmin Guadalupe. RAMA: RAMA_YAZMIN.
