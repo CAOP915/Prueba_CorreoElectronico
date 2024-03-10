@@ -1,5 +1,4 @@
-
-public class CorreoEletronico implements Comparable<CorreoEletronico>{
+public class CorreoElectronico implements Comparable<CorreoElectronico>{
     
 	//Comienzo y Comentarios del proyecto (Correo Electronico con cola de mensajes):
 	//1 //Integrantes del equipo:
@@ -17,10 +16,10 @@ public class CorreoEletronico implements Comparable<CorreoEletronico>{
 	private String receptor;
 	private String asunto;
 	private String mensaje;
-	private int tipoDeMensaje; // 1 personal, 2 trabajo, 3 otro tipo.
+	private int tipoDeMensaje; // 1 Personal, 2 Trabajo, 3 Otro tipo.
 	
 	//Constructor de la clase:
-	public CorreoEletronico (String emisor, String receptor, String asunto, String mensaje, int tipoDeMensaje) {
+	public CorreoElectronico (String emisor, String receptor, String asunto, String mensaje, int tipoDeMensaje) {
 		
 		this.emisor = emisor;
 		this.receptor = receptor;
@@ -72,7 +71,7 @@ public class CorreoEletronico implements Comparable<CorreoEletronico>{
     
 	//Comparacion entre correos electronicos con el atributo tipoDeMensaje para la cola de la clase CorreoElectronico:
 	@Override
-    public int compareTo(CorreoEletronico otroCorreoEletronico) {
+    public int compareTo(CorreoElectronico otroCorreoEletronico) {
     
 	// Comparara mensajes basadas en el atributo tipoDeMensaje:
         return Integer.compare(this.tipoDeMensaje, otroCorreoEletronico.getTipoDeMensaje());
